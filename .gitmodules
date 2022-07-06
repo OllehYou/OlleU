@@ -1,0 +1,6 @@
+[submodule "OlleU-App"]
+	path = OlleU-App
+	url = https://github.com/OllehYou/OlleU-App
+[submodule "OlleU-Back"]
+	path = OlleU-Back
+	url = https://github.com/OllehYou/OlleU-Back
